@@ -39,6 +39,7 @@ h3{
 .nombre{
     font-size: 80px;
     color: #aeefec;
+    text-transform: uppercase;
 }
 
 .santiago{
