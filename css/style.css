@@ -1,0 +1,155 @@
+body{
+    text-align: center;
+    font-family: 'Short Stack', cursive;
+    margin: 0px auto 0px auto;
+    padding: 0;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: rgb(168, 168, 168);
+    border-width: 25px;
+    width: 50%;
+    margin: 0 auto 0 auto;
+    
+    text-align: center;
+
+}
+
+p{
+    text-align: left;
+    margin: 0;
+}
+
+h2{
+    margin: 0;
+    font-size: 40px;
+}
+h3{
+    margin: 0;
+    font-size: 30px;
+}
+.portada{
+    background-color: #00bdaa;
+    color: #d1f5d3;
+    
+}
+
+.nombre{
+    font-size: 80px;
+    color: #aeefec;
+}
+
+.santiago{
+    width:300px;
+    height:300px;
+    border-radius:160px;
+    border:10px solid #aeefec;
+    margin: 10px auto 70px auto;
+}
+.santiagoletra{
+    text-align: center;
+}
+
+.gustos{
+    color: #84442d;
+    background-color: #f1e7b6;
+    
+}
+.gustostitulo{
+    margin-bottom: 100px;
+    padding-top: 100px;
+}
+
+.quimica{
+    float: left;
+    width: 300px;
+    height: 300px;
+}
+.pintura{
+    float: right;
+    width: 300px;
+    height: 300px;
+
+}
+
+.juegos{
+    color: #84442d;
+    background-color: #f1e7b6;
+}
+
+.juegostitulo{
+    margin-bottom: 100px;
+    padding-top: 100px;
+}
+
+.mario{
+    float: left;
+}
+
+.pokemon{
+    float: right;
+}
+
+.videos{
+    color: #84442d;
+    background-color: #f1e7b6;
+    padding-bottom: 300px;
+}
+.videostitulo{
+    margin-bottom: 100px;
+    padding-top: 100px
+}
+
+.redshock{
+    float: left;
+    border-radius:230px;
+    height: 470px;
+    width: 470px;
+}
+.redshockletra{
+    font-size: 15px;
+}
+
+.redshockletra2{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+.universe{
+    float: right;
+    border-radius:230px;
+    height: 470px;
+    width: 470px;
+}
+
+.contacto{
+    color: #eb4559;
+    background-color: #d8b9c3;
+}
+
+.instagram{
+    
+    height: 400px;
+    width: 400px;
+   
+}
+
+.instagram-media{
+    float: right;
+}
+
+.mapa{
+    
+    height: 300px;
+    width: 300px; 
+}
+
+.santiago2{
+    border-radius:230px;
+    height: 300px;
+    width: 300px; 
+}
